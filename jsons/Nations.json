@@ -29,7 +29,9 @@
 
 		"outerColor": [50,225,0],
 		"innerColor": [255,255,0],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Soberania Brasileira"
+		"unique": ["When conquering an encampment, earn [1] Gold and recruit a Barbarian
+			unit <with [30]% chance>","[+50]% [happiness]"],
 		"cities": ["São Vicente", "Salvador", "São Paulo", "Rio de Janeiro", "Paraíba",
 			"São Cristóvão", "Natal", "São Luís", "Belém","Teresina", "Xique-Xique",
 			"Sorocaba", "Brasília"]
