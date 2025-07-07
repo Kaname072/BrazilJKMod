@@ -27,8 +27,8 @@
 		"afterPeace": "Que bom.",
 		"tradeRequest": "Eae? topa?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [50,225,0],
+		"innerColor": [255,255,0],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["São Vicente", "Salvador", "São Paulo", "Rio de Janeiro", "Paraíba",
 			"São Cristóvão", "Natal", "São Luís", "Belém","Teresina", "Xique-Xique",
