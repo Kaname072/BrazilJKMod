@@ -25,7 +25,7 @@
 	},
 	{       "name": "Pracinha",
                 "replaces": "Rifleman",
-		"UniqueTo": "Brazil",
+		"uniqueTo": "Brazil",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 40,
