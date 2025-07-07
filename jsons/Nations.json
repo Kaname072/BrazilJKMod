@@ -31,7 +31,7 @@
 		"innerColor": [255,255,0],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Soberania Brasileira",
-		"unique": ["[+75]% [Happiness]","[+10]% [Culture] from City-States","[+20]% [Food]","When conquering an encampment, earn [45] Gold and recruit a Barbarian unit <with [55]% chance>"],
+		"uniques": ["[+75]% [Happiness]","[+10]% [Culture] from City-States","[+20]% [Food]","When conquering an encampment, earn [45] Gold and recruit a Barbarian unit <with [55]% chance>"],
 		"cities": ["São Vicente", "Salvador", "São Paulo", "Rio de Janeiro", "Paraíba",
 			"São Cristóvão", "Natal", "São Luís", "Belém","Teresina", "Xique-Xique",
 			"Sorocaba", "Brasília"]
