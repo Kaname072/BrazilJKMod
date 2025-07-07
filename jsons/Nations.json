@@ -1,38 +1,37 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Brazil",
+		"leaderName": "Dom Pedro I",
+		"adjective": ["brazilian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Diplomacy",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Vindo de portugal, chegamos a Ilha de Vera Cruz!",
+		"startIntroPart2": "Quer dizer... Terra de Vera Cruz! Eh... BRASIL!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Está cometendo um erro!",
+		"attacked": "Não teremos misericórdia!",
+		"defeated": "Não pode ser...",
+		"introduction": "Saudações! Somos Brasileiros, que Deus esteja com vossamercê!.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Olá",
+		"neutralLetsHearIt": ["Então...","Sério?","Vamos ver..."],
+		"neutralNo": ["Recusamos","Não, foi mal","Não Amigo"],
+		"neutralYes": ["Sim","Legal!","Tá Bom"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Ah, é você...",
+		"hateLetsHearIt": ["A é?","Fala!","Grr..."],
+		"hateNo": ["NÃO","Nunca","Cai fora"],
+		"hateYes": ["Tá bom...","Eu curti...","Mas só hoje!"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Que bom.",
+		"tradeRequest": "Eae? topa?",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["São Vicente", "Salvador", "São Paulo", "Rio de Janeiro", "Paraíba",
+			"São Cristóvão", "Natal", "São Luís", "Belém","Teresina", "Xique-Xique",
+			"Sorocaba", "Brasília"]
 	}
 ]
