@@ -4,29 +4,36 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+BuildingIcons/Primeira Missa
   rotate: false
-  xy: 112, 4
+  xy: 412, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+UnitIcons/Bandeirante
   rotate: false
-  xy: 220, 4
+  xy: 120, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+NationIcons/Brazil
   rotate: false
   xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Pracinha 
   rotate: false
+  xy: 228, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cangaceiro
+rotate: false
   xy: 328, 4
   size: 100, 100
   orig: 100, 100
