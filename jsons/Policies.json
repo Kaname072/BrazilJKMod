@@ -693,27 +693,29 @@
             "Scientific": 5
         },
         "uniques": [
-            "[-1 Happiness] [in all cities]"
+            "[-2 Happiness] [in all cities]",
+            "[+2 Culture] [in all cities]"
         ],
         "policies": [
             {
                 "name": "Pão e Circo",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+2 Happiness, +2 Food, -3 Gold] per [3] population [in all cities]"
+                    "[+1 Happiness, +1 Food, -1 Gold] per [2] population [in all cities]"
                 ],
                 "row": 1,
-                "column": 1
+                "column": 2
             },
             {
                 "name": "Desvio",
                 "uniqueTo": "Brazil",
                 "uniques": [
                     "[+50]% [Gold] from every [Mines]",
-                    "[+100]% Production when constructing [Mine] buildings [in all cities]"
+                    "[+100]% Production when constructing [Farm] buildings [in all cities]",
+                    "When conquering an encampment, Free [Cangaceiro] appears"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Censura",
@@ -721,26 +723,27 @@
                 "uniques": [
               "[100]% Strength <for [All] units>"
                 ],
-                "row": 1,
-                "column": 5
+                "row": 2,
+                "column": 2
             },
             {
                 "name": "Apoio Artístico",
                 "uniqueTo":"Brazil",
-                "requires": ["Censura"],
+                "requires": ["Pão e Circo","Desvio"],
                 "uniques": [
-                    "[+5 Culture] [in all cities]"
+                    "[+5 Culture] [in all cities]",
+                    "Free [Great Artist] appears"
                 ],
                 "row": 2,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Propaganda",
                 "requires": ["Apoio Artístico"],
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+2 Production, +2 Happiness, -3 Gold] [in capital]",
-                    "[+2 Production] from every [Farm]",
+                    "[+1 Happiness] per [2] population [in all cities]",
+                    "Free [Great General] appears"
                 ],
                 "row": 3,
                 "column": 3
