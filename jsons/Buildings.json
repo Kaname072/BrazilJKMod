@@ -1,13 +1,14 @@
 [
 	{
 		"name": "Primeira Missa",
-		"replaces": "Shrine",
+		"replaces": "Monument",
 		"uniqueTo": "Brazil",
-		"faith": 2,
-		"cost": 50,
-		"maintenance": 0,
-		"requiredTech": "Pottery",
-		"uniques": ["Only available <when religion is enabled>"]
+		"culture": 2,
+		"uniques": ["+2 Happiness","[1] free [Worker] units appear"]
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
 		"name": "Breeders",
