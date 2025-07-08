@@ -700,7 +700,7 @@
                 "name": "Pão e Circo",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+3] [Happiness] [in all cities]", "[+3] [Food] [in all cities]",
+                    "[+3] [Happiness] [in all cities]", "[+3] [Food] [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
@@ -729,7 +729,7 @@
                 "uniqueTo":"Brazil",
                 "requires": ["Censura"],
                 "uniques": [
-                    "[+3] Culture"
+                    "[+3] [Culture] [in allcities]"
                 ],
                 "row": 2,
                 "column": 3
@@ -750,8 +750,7 @@
                 "name": "Corrupção Completa",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
-                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]"
                 ]
             }
         ]
