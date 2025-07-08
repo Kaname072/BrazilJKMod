@@ -46,3 +46,38 @@ BuildingIcons/Cristo Redentor
   orig: 100, 100
   offset: 0, 0
   index: -1
+PolicyIcons/Pão e Circo
+  rotate: false
+  xy: 0, -50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Censura
+  rotate: false
+  xy: 100, -50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Desvio
+  rotate: false
+  xy: 200, -50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Apoio Artístico
+  rotate: false
+  xy: 300, -50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Propaganda
+  rotate: false
+  xy: 500, -50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
