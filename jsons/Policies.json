@@ -684,6 +684,7 @@
     {
                  "name": "Corrupção",
         "era": "Ancient era",
+        "uniqueTo": "Brazil",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
@@ -697,6 +698,7 @@
         "policies": [
             {
                 "name": "Pão e Circo",
+                "uniqueTo": "Brazil",
                 "uniques": [
                     "[+50]% [Happiness] in all cities",
                 ],
@@ -705,6 +707,7 @@
             },
             {
                 "name": "Desvio",
+                "uniqueTo": "Brazil",
                 "uniques": [
                     "[+50]% [Gold] from every [Mine]",
                     "[+100]% Production when constructing [Mine] buildings [in all cities]"
@@ -714,6 +717,7 @@
             },
             {
                 "name": "Censura",
+                "uniqueTo": "Brazil",
                 "uniques": [
                     "[+100]% Strength <for [All] units>"
                 ],
@@ -722,6 +726,7 @@
             },
             {
                 "name": "Apoio Artístico",
+                "uniqueTo":"Brazil",
                 "requires": ["Censura"],
                 "uniques": [
                     "[+3] Culture in all cities"
@@ -732,6 +737,7 @@
             {
                 "name": "Propaganda",
                 "requires": ["Apoio Artístico"],
+                "uniqueTo": "Brazil",
                 "uniques": [
                     "[+2 Production] [in all cities]",
                     "[+1 Production] from every [Mine]",
@@ -742,6 +748,7 @@
             },
             {
                 "name": "Corrupção Completa",
+                "uniqueTo": "Brazil",
                 "uniques": [
                     "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
