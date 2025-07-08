@@ -10,13 +10,14 @@
 		"maintenance": 2,
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Cristo Redentor",
+		"replaces": "Grand Temple",
+		"cost": 125,
+		"culture": 6,
+		"faith": 4,
+		"uniques": ["Cost increases by [25] per owned city",
+			"[+50]% Natural religion spread [in this city]", "Only available <when religion is enabled>"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
 	}
 ]
