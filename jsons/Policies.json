@@ -677,6 +677,71 @@
                 "uniques": [
                     "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+             },
+             {
+                 "name": "Corrupção",
+        "era": "Ancient Era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[-1 Happiness] [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Pão e Circo",
+                "uniques": [
+                    "[+50]% [Happiness] in all cities",
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Desvio",
+                "uniques": [
+                    "[+50]% [Gold] from every [Mine]",
+                    "[+100]% Production when constructing [Mine] buildings [in all cities]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Censura",
+                "uniques": [
+                    "[+100]% Strength <for [All] units>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Apoio Artístico",
+                "requires": ["Censura"],
+                "uniques": [
+                    "[+3] Culture in all cities"
+                ],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Propaganda",
+                "requires": ["Apoio Artístico"],
+                "uniques": [
+                    "[+2 Production] [in all cities]",
+                    "[+1 Production] from every [Mine]",
+                    "[+1 Production] from every [Quarry]"
+                ],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Corrupção Completa",
+                "uniques": [
+                    "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
+                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
         ]
