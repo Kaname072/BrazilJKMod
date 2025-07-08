@@ -707,12 +707,12 @@
                 "column": 2
             },
             {
-                "name": "Desvio",
+                "name": "Corrupção",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+50]% [Gold] from every [Mines]",
+                    "[+ 1 Gold] per [2] population",
                     "[+100]% Production when constructing [Farm] buildings [in all cities]",
-                    "When conquering an encampment, Free [Cangaceiro] appears"
+                    "Free [3] [Cangaceiro] appears"
                 ],
                 "row": 1,
                 "column": 4
