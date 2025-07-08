@@ -26,14 +26,13 @@
 		
 		"afterPeace": "Que bom.",
 		"tradeRequest": "Eae? topa?",
-
 		"outerColor": [50,225,0],
 		"innerColor": [255,255,0],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Soberania Brasileira",
-		"uniques": ["[+75]% [Happiness]","[+10]% [Culture] from City-States","[+20]% [Food]","When conquering an encampment, earn [45] Gold and recruit a Barbarian unit <with [55]% chance>"],
-		"cities": ["São Vicente", "Salvador", "São Paulo", "Rio de Janeiro", "Paraíba",
-			"São Cristóvão", "Natal", "São Luís", "Belém","Teresina", "Xique-Xique",
-			"Sorocaba", "Brasília"]
+		"uniques": ["[+1 Happiness] from [Jungle] tiles [in this city]","[+2 Food] from [Desert] tiles [in this city]"],
+		"cities": ["São Vicente","Salvador","São Paulo","Rio de Janeiro","Paraíba",
+			"São Cristóvão","Natal","São Luís","Belém","Teresina","Xique-Xique",
+			"Sorocaba","Brasília"]
 	}
 ]
