@@ -700,7 +700,7 @@
                 "name": "Pão e Circo",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+50]% [Happiness] in all cities",
+                    "[+3] [Happiness] [in all cities]", "[+3] [Food] [in all cities]",
                 ],
                 "row": 1,
                 "column": 1
@@ -729,7 +729,7 @@
                 "uniqueTo":"Brazil",
                 "requires": ["Censura"],
                 "uniques": [
-                    "[+3] Culture in all cities"
+                    "[+3] Culture"
                 ],
                 "row": 2,
                 "column": 3
