@@ -701,18 +701,19 @@
                 "name": "Pão e Circo",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+1 Happiness, +1 Food, -1 Gold] per [2] population [in all cities]"
+                    "[+1 Happiness, +2 Food, -1 Gold] per [2] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 2
             },
             {
-                "name": "Corrupção",
+                "name": "Desonestidade",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+ 1 Gold] per [2] population",
-                    "[+100]% Production when constructing [Farm] buildings [in all cities]",
-                    "Free [3] [Cangaceiro] appears"
+                    "[+1 Gold] per [1] population [in capital]",
+                    "Free [Cangaceiro] appears",
+                    "Free [Cangaceiro] appears",
+                    "Free [Cangaceiro] appears"
                 ],
                 "row": 1,
                 "column": 4
@@ -729,7 +730,7 @@
             {
                 "name": "Apoio Artístico",
                 "uniqueTo":"Brazil",
-                "requires": ["Pão e Circo","Desvio"],
+                "requires": ["Pão e Circo","Desonestidade"],
                 "uniques": [
                     "[+5 Culture] [in all cities]",
                     "Free [Great Artist] appears"
