@@ -4,7 +4,7 @@
 		"replaces": "Monument",
 		"uniqueTo": "Brazil",
 		"culture": 2,
-		"uniques": ["+2 Happiness","[1] free [Worker] units appear","Destroyed when the city is captured"]
+		"uniques": ["+1 Happiness","[1] free [Worker] units appear","Destroyed when the city is captured"]
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
@@ -12,6 +12,7 @@
 	{
 		"name": "Cristo Redentor",
 		"replaces": "Grand Temple",
+		"uniqueTo": "Brazil",
 		"cost": 125,
 		"culture": 6,
 		"faith": 4,
