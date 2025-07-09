@@ -719,7 +719,9 @@
                 "name": "Censura",
                 "uniqueTo": "Brazil",
                 "uniques": [
-              "[100]% Strength <for [All] units>"
+               "[100]% Strength <for [All] units>",
+                    "Units in cities cost no Maintenance",
+                    "[+50]% XP gained from combat <for [Military] units>"
                 ],
                 "row": 2,
                 "column": 2
