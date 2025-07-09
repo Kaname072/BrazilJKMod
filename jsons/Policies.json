@@ -693,7 +693,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "[-2 Happiness] [in all cities]",
+            "[-1 Happiness] [in all cities]",
             "[+2 Culture] [in all cities]"
         ],
         "policies": [
@@ -710,10 +710,7 @@
                 "name": "Desonestidade",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+1 Gold] per [1] population [in capital]",
-                    "Free [Cangaceiro] appears",
-                    "Free [Cangaceiro] appears",
-                    "Free [Cangaceiro] appears"
+                    "[+1 Gold] per [1] population [in capital]"
                 ],
                 "row": 1,
                 "column": 4
@@ -732,7 +729,7 @@
                 "uniqueTo":"Brazil",
                 "requires": ["Pão e Circo","Desonestidade"],
                 "uniques": [
-                    "[+5 Culture] [in all cities]",
+                    "[+3 Culture] [in all cities]",
                     "Free [Great Artist] appears"
                 ],
                 "row": 2,
@@ -743,7 +740,7 @@
                 "requires": ["Apoio Artístico"],
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+1 Happiness] per [2] population [in all cities]",
+                    "[+2 Happiness] per [3] population [in all cities]",
                     "Free [Great General] appears"
                 ],
                 "row": 3,
