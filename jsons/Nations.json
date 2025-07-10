@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Brazil",
+		"name": "Brasil",
 		"leaderName": "Dom Pedro I",
-		"adjective": ["brazilian"],
+		"adjective": ["brasileiros"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Diplomatic",
 		
@@ -30,7 +30,7 @@
 		"innerColor": [255,255,0],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Riquezas Brasileiras",
-		"uniques": ["[+1 Culture] from [Jungle] tiles [in this city]","[+2 Production] from [Sugar] tiles [in this city]","[+2 Happiness] from [Desert] tiles [in this city]"],
+		"uniques": ["[+1 Culture] from [Jungle] tiles [in this city]","[+2 Production] from [Sugar] tiles [in this city]","[+1 Happiness] from [Desert] tiles [in this city]"],
 		"cities": ["São Vicente","Salvador","São Paulo","Rio de Janeiro","Paraíba",
 			"São Cristóvão","Natal","São Luís","Belém","Teresina","Xique-Xique",
 			"Sorocaba","Brasília"]
