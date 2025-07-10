@@ -80,6 +80,7 @@
             "Scientific": 10
         },
         "uniques": ["[+1 Culture] [in all cities]"],
+        "Only available <before adopting [Distopismo]>",
         "policies": [
             {
                 "name": "Republic",
@@ -425,7 +426,8 @@
         },
         "uniques": [
             "[+15]% [Science] <while the empire is happy>",
-            "Only available <before adopting [Piety]>"
+            "Only available <before adopting [Piety]>",
+            "Only available <before adopting [Distopismo]>"
         ],
         "policies": [
             {
@@ -695,7 +697,9 @@
         "uniques": [
             "[-1 Happiness] [in all cities]",
             "[+2 Culture] [in all cities]",
-"May buy [Cangaceiro] units with [Gold] for [3] times their normal Production cost"
+"May buy [Cangaceiro] units with [Gold] for [3] times their normal Production cost",
+"Only available <before adopting [Liberty]>",
+"Only available <before adopting [Rationalism]>"
         ],
         "policies": [
             {
@@ -708,7 +712,7 @@
                 "column": 2
             },
             {
-                "name": "Taxas Altas",
+                "name": "Altas Taxas",
                 "uniqueTo": "Brazil",
                 "uniques": [
                     "[+1 Gold] per [1] population [in capital]",
@@ -731,7 +735,7 @@
             {
                 "name": "Apoio Artístico",
                 "uniqueTo":"Brazil",
-                "requires": ["Pão e Circo","Taxas Altas"],
+                "requires": ["Pão e Circo","Altas Taxas"],
                 "uniques": [
                     "[+3 Culture] [in all cities]",
                     "Free [Great Artist] appears"
