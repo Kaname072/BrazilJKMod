@@ -2,7 +2,7 @@
 	{
 		"name": "Primeira Missa",
 		"replaces": "Monument",
-		"uniqueTo": "Brazil",
+		"uniqueTo": "Brasil",
 		"culture": 2,
 		"uniques": ["+1 Happiness","[1] free [Worker] units appear","Destroyed when the city is captured"]
 		"cost": 40,
@@ -12,7 +12,7 @@
 	{
 		"name": "Cristo Redentor",
 		"replaces": "Grand Temple",
-		"uniqueTo": "Brazil",
+		"uniqueTo": "Brasil",
 		"cost": 125,
 		"culture": 6,
 		"faith": 4,
