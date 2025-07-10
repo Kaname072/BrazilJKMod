@@ -694,23 +694,25 @@
         },
         "uniques": [
             "[-1 Happiness] [in all cities]",
-            "[+2 Culture] [in all cities]"
+            "[+2 Culture] [in all cities]",
+"May buy [Cangaceiro] units with [Gold] for [3] times their normal Production cost"
         ],
         "policies": [
             {
                 "name": "Pão e Circo",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+1 Happiness, +2 Food, -1 Gold] per [2] population [in all cities]"
+                    "[+1 Happiness, +2 Food] per [3] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 2
             },
             {
-                "name": "Desonestidade",
+                "name": "Taxas Altas",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+1 Gold] per [1] population [in capital]"
+                    "[+1 Gold] per [1] population [in capital]",
+                    "[-50]% maintenance on road & railroads"
                 ],
                 "row": 1,
                 "column": 4
@@ -719,9 +721,9 @@
                 "name": "Censura",
                 "uniqueTo": "Brazil",
                 "uniques": [
-               "[100]% Strength <for [All] units>",
+               "[50]% Strength <for [All] units>",
                     "Units in cities cost no Maintenance",
-                    "[+50]% XP gained from combat <for [Military] units>"
+                    "[+100]% XP gained from combat <for [Military] units>"
                 ],
                 "row": 2,
                 "column": 2
@@ -729,7 +731,7 @@
             {
                 "name": "Apoio Artístico",
                 "uniqueTo":"Brazil",
-                "requires": ["Pão e Circo","Desonestidade"],
+                "requires": ["Pão e Circo","Taxas Altas"],
                 "uniques": [
                     "[+3 Culture] [in all cities]",
                     "Free [Great Artist] appears"
