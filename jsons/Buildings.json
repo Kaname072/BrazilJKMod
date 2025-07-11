@@ -29,7 +29,7 @@
 		"food": 1,
 		"production": 3,
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Culture"],
+		"uniques": ["[+2 Culture","Free [Settler] unit appears"],
 		"requiredTech": "The Wheel"
 	}
 		]
