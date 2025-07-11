@@ -35,5 +35,39 @@
 		"cities": ["São Vicente","Salvador","São Paulo","Rio de Janeiro","Paraíba",
 			"São Cristóvão","Natal","São Luís","Belém","Teresina","Xique-Xique",
 			"Sorocaba","Brasília"]
+	},
+	{
+		"name": "República Juliana",
+		"leaderName": "David Canabarro",
+		"adjective": ["julianos"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Nos separamos do Brasil, não queremos servi-los mais!",
+		"startIntroPart2": "Vamos leva Juliana para ao triunfo!!",
+		
+		"declaringWar": "Está cometendo um erro!",
+		"attacked": "Você quer guerra?!",
+		"defeated": "NÃO! VAMOS VOLTAR PARA O BRASIL??",
+		"introduction": "Saudações! Somos da República Juliana, e você?",
+		
+		"neutralHello": "Olá",
+		"neutralLetsHearIt": ["Diga","Fale","Vamos ver"],
+		"neutralNo": ["Não","Não, foi mal","Não Amigo"],
+		"neutralYes": ["Sim","Vamos!","Ótimo"],
+
+		"hateHello": "grr...",
+		"hateLetsHearIt": ["Oque quer?","Fala!","Fale..."],
+		"hateNo": ["NÃO","Nunca","Cai fora"],
+		"hateYes": ["Tá bom...","Legal","Tudo bem"],
+		
+		"afterPeace": "Que bom.",
+		"tradeRequest": "É uma boa oferta!",
+		"outerColor": [50,225,0],
+		"innerColor": [255,255,0],
+                "favoredReligion": "Christianity",
+		"uniqueName": "Cultura Sulista",
+		"uniques": ["[+1 Science] from [Tundra] tiles [in this city]","Cannot build [Settler] units"],
+		"cities": ["Laguna","São Francisco do Sul","Lages","São José","Porto Belo","Biguaçu","Blumenau","Joinville"]
 	}
 ]
