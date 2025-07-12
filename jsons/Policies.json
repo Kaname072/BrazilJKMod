@@ -761,7 +761,7 @@
                 "name": "Distopismo Complete",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+1 Food, +1 Production] per [3] population [in all cities]", "[+2 Happiness] [in all cities connected to capital"
+                    "[+1 Food, +1 Production] per [3] population [in all cities]", "[+2 Happiness] [in all cities connected to capital]"
                 ]
             }
         ]
