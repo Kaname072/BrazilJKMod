@@ -683,7 +683,7 @@
     },
     {
                  "name": "Distopismo",
-        "era": "Ancient era",
+        "era": "Medieval era",
         "uniqueTo": "Brasil",
         "priorities": {
             "Neutral": 5,
@@ -694,7 +694,7 @@
         },
         "uniques": [
             "[-1 Happiness] [in all cities]",
-            "[+2 Culture] [in all cities]",
+            "[+2 Culture] [in all cities connected to capital]",
 "Only available <before adopting [Liberty]>",
 "Only available <before adopting [Rationalism]>"
         ],
@@ -703,7 +703,7 @@
                 "name": "Pão e Circo",
                 "uniqueTo": "Brasil",
                 "uniques": [
-                    "[+1 Happiness, +2 Food] per [3] population [in all cities]"
+                    "[+1 Happiness, +1 Food] per [3] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 2
@@ -712,8 +712,8 @@
                 "name": "Altas Taxas",
                 "uniqueTo": "Brasil",
                 "uniques": [
-                    "[+1 Gold] per [1] population [in capital]",
-                    "[-50]% maintenance on road & railroads"
+                    "[+1 Gold] per [2] population [in all cities connected to capital]",
+                    "[-25]% maintenance on road & railroads"
                 ],
                 "row": 1,
                 "column": 4
@@ -722,9 +722,11 @@
                 "name": "Censura",
                 "uniqueTo": "Brasil",
                 "uniques": [
-               "[50]% Strength <for [All] units>",
                     "Units in cities cost no Maintenance",
-                    "[+100]% XP gained from combat <for [Military] units>"
+                    "[+100]% XP gained from combat <for [Military] units>",
+                    "[-1 Science] from every [Library]",
+                    "[-1 Science] from every [University]",
+                    "[-1 Science] from every [Public School]"
                 ],
                 "row": 2,
                 "column": 2
@@ -734,7 +736,9 @@
                 "uniqueTo":"Brasil",
                 "requires": ["Pão e Circo","Altas Taxas"],
                 "uniques": [
-                    "[+3 Culture] [in all cities]",
+                    "[+1 Science] [in all cities]",
+                    "[+1 Culture] from every [Theatre]",
+                    "[+1 Culture] from every [Circus]",
                     "Free [Great Artist] appears"
                 ],
                 "row": 2,
@@ -745,8 +749,10 @@
                 "requires": ["Apoio Artístico"],
                 "uniqueTo": "Brasil",
                 "uniques": [
-                    "[+2 Happiness] per [3] population [in all cities]",
-                    "Free [Great General] appears"
+                    "[+1 Happiness] per [3] population [in all cities connected to capital]",
+"[+1 Happiness] from every [Farm]",
+                    "[+1 Happiness] from every [Mine]",
+   "Free [Great General] appears"
                 ],
                 "row": 3,
                 "column": 3
@@ -755,7 +761,7 @@
                 "name": "Distopismo Complete",
                 "uniqueTo": "Brazil",
                 "uniques": [
-                    "[+1 Food, +2 Production, +3 Science, -1 Gold, +2 Culture] per [2] population [in all cities]"
+                    "[+1 Food, +1 Production] per [3] population [in all cities]", "[+2 Happiness] [in all cities connected to capital"
                 ]
             }
         ]
