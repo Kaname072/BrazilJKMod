@@ -23,11 +23,11 @@
 		"name": "Vila Cultural",
 		"replaces": "Water Mill",
 		"uniqueTo": "República Juliana",
-		"maintenance": 1,
+		"maintenance": 3,
 		"food": 1,
-		"production": 3,
+		"production": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Culture","[1] free [Settler] units appear"],
+		"uniques": ["[+1 Culture] from every [Wheat] tiles [in this city]","[1] free [Settler] units appear"],
 		"requiredTech": "The Wheel"
 	},
 	{
