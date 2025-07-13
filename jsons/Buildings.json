@@ -36,8 +36,8 @@
 		"cost": 125,
 		"culture": 2,
 		"faith": 6,
-		"uniques": ["[+1 Faith] from [Sheep] tiles [in this city]"],"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+		"uniques": ["[+1 Faith] from [Sheep] tiles [in this city]","[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	}
-		]
+]
