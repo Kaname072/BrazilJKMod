@@ -27,7 +27,7 @@
 		"food": 1,
 		"production": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Culture] from every [Wheat] tiles [in this city]","[1] free [Settler] units appear"],
+		"uniques": ["[+1 Culture] from [Wheat] tiles [in this city]","[1] free [Settler] units appear"],
 		"requiredTech": "The Wheel"
 	},
 	{
