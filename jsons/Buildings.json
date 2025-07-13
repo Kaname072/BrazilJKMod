@@ -10,17 +10,14 @@
 		"maintenance": 2,
 	},
 	{
-		"name": "Cristo Redentor",
-		"replaces": "Grand Temple",
+		"name": "Palácio do Planalto",
+		"replaces": "National Epic",
 		"uniqueTo": "Brasil",
-		"cost": 125,
-		"culture": 6,
-		"faith": 4,
-		"uniques": ["Cost increases by [25] per owned city",
-			"[+50]% Natural religion spread [in this city]", "Only available <when religion is enabled>"],
-		"requiredTech": "Theology",
-		"isNationalWonder": true
-	},
+		"cost": 150,
+		"culture": 2,
+		"isNationalWonder": true,
+		"uniques": ["[+35]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
+		"requiredTech": "Drama and Poetry"
 	{
 		"name": "Vila Cultural",
 		"replaces": "Water Mill",
