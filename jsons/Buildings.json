@@ -18,6 +18,7 @@
 		"isNationalWonder": true,
 		"uniques": ["[+35]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
 		"requiredTech": "Drama and Poetry"
+	},
 	{
 		"name": "Vila Cultural",
 		"replaces": "Water Mill",
