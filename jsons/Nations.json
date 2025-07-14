@@ -67,7 +67,7 @@
 		"innerColor": [88,150,238],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Liberdade Pernambucana",
-		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","[+33]% [Food] [in all cities]","Free [Sertanejo] unit appears <upon founding a city>","Double quantity of [Iron] produced","Cannot build [Warrior] units"],
+		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","[+33]% [Food] [in all cities]","Double quantity of [Iron] produced","Cannot build [Warrior] units"],
 		"cities": ["Recife","Igarassu","Olinda","Tamandaré","Caruaru","Ipojuca","Petrolina","Goiana"]
 	},
 	{
