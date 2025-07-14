@@ -6,7 +6,6 @@
 		"uniqueTo": "República Juliana",
 		"turnsToBuild": 10,
 		"techRequired": "Construction",
-		"uniques": ["Can also be built on tiles adjacent to fresh water",
-            "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Pillaging this improvement yields approximately [+20 Gold]"]
 	}
 ]
