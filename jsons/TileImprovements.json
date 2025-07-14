@@ -2,10 +2,12 @@
 	{
 		"name": "Casa Alemã",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Snow","Tundra"],
-		"culture": 2,
+		"culture": 1,
+		"maintenance": 1,
 		"uniqueTo": "República Juliana",
 		"turnsToBuild": 10,
 		"techRequired": "Construction",
-		"uniques": ["Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["[+1 Culture] <after discovering [Education]>","[+2 Production] <after discovering [Civil Service]>",
+			"Pillaging this improvement yields approximately [+50 Gold]"]
 	}
 ]
