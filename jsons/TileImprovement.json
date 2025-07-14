@@ -1,14 +1,12 @@
 [
-  {
-    "name": "Casa Alemã",
+	{
+		"name": "Casa Alemã",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Snow","Tundra"],
+		"culture": 2,
 		"uniqueTo": "República Juliana",
-    "culture": 2,
-		"turnsToBuild": 9,
-		"techRequired": "Wheel",
+		"turnsToBuild": 10,
+		"techRequired": "Construction",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
-			"[+1 Faith] from [Fresh water] tiles <after discovering [Civil Service]>",
-			"[+1 Production] from [non-fresh water] tiles <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+20 Gold]"]
-  }
+	}
 ]
