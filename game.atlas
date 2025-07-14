@@ -126,8 +126,8 @@ ImprovementIcons/Casa Alemã
 TileSets/FantasyHex/Tiles/Casa Alemã
   rotate: false
   xy: 400, 200
-  size: 50, 50
-  orig: 100, 100
+  size: 100, 100
+  orig: 50, 50
   offset: 0, 0
   index: -1
 NationIcons/Confederação do Equador
