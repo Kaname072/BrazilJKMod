@@ -63,11 +63,11 @@
 		
 		"afterPeace": "Que Deus te abençoe",
 		"tradeRequest": "É uma boa oferta!",
-		"outerColor": [48,144,0],
-		"innerColor": [255,255,255],
+		"outerColor": [88,150,238],
+		"innerColor": [88,150,238],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Liberdade Pernambucana",
-		"uniques": ["[+1 Happiness] from [Hill] tiles [in this city]","[-15]% Unhappiness from [Population] [in all cities]","Cannot build [Warrior] units"],
+		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","[+33]% [Food] [in all cities]","Gain a free [Sertanejo] unit [in this city] <upon founding a city>","Cannot build [Warrior] units"],
 		"cities": ["Recife","Igarassu","Olinda","Tamandaré","Caruaru","Ipojuca","Petrolina","Goiana"]
 	},
 	{
