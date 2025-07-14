@@ -118,7 +118,7 @@ BuildingIcons/São Miguel
   index: -1
 ImprovementIcons/Casa Alemã
   rotate: false
-  xy: 200, 200
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -126,8 +126,8 @@ ImprovementIcons/Casa Alemã
 TileSets/FantasyHex/Tiles/Casa Alemã
   rotate: false
   xy: 400, 200
-  size: 32, 35
-  orig: 32, 35
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Confederação do Equador
@@ -144,4 +144,17 @@ UnitIcons/Sertanejo
   orig: 100, 100
   offset: 0, 0
   index: -1
-
+BuildingIcons/Feira de Caruaru
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Erva Mate
+  rotate: false
+  xy: 100, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
