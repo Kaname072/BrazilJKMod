@@ -74,7 +74,7 @@
 		"strength": 11,
 		"cost": 40,
 		"obsoleteTech": "Theology",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Can move after attacking", "Never appears as a Barbarian unit"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects","[+50]% Strength <in [Desert] tiles>","[+10] HP when healing <in [Desert] tiles>","Double movement in [Desert]","Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "shot"
 	}
