@@ -125,7 +125,7 @@ ImprovementIcons/Casa Alemã
   index: -1
 TileSets/FantasyHex/Tiles/Casa Alemã
   rotate: false
-  xy: 435, 235
+  xy: 430, 235
   size: 35, 35
   orig: 100, 100
   offset: 0, 0
