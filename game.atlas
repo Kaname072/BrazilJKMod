@@ -116,3 +116,17 @@ BuildingIcons/São Miguel
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Casa Alemã
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Casa Alemã
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
