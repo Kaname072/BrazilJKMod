@@ -77,4 +77,5 @@
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "shot"
+	}
 ]
