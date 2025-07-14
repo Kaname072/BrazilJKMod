@@ -5,9 +5,9 @@
 		"culture": 1,
 		"maintenance": 1,
 		"uniqueTo": "República Juliana",
-		"turnsToBuild": 10,
+		"turnsToBuild": 12,
 		"techRequired": "Construction",
 		"uniques": ["[+1 Culture] <after discovering [Education]>","[+2 Production] <after discovering [Civil Service]>",
-			"Pillaging this improvement yields approximately [+50 Gold]"]
+			"Pillaging this improvement yields approximately [+50 Gold]","[1] free [Settler] units appear"]
 	}
 ]
