@@ -64,5 +64,17 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+33]% Strength <vs [Sword] units>" ],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
-	}
+	},
+	{
+		"name": "Sertanejo",
+		"replaces":"Scout",
+		"uniqueTo": "Confederação do Equador",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 11,
+		"cost": 40,
+		"obsoleteTech": "Theology",
+		"uniques": ["May upgrade to [Musketman] through ruins-like effects", "Can move after attacking", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "shot"
 ]
