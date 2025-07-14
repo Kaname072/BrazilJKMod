@@ -47,7 +47,7 @@
 		"uniqueTo": "Confederação do Equador",
 		"gold": 1,
 		"specialistSlots": {"Merchant": 2},
-		"uniques": ["[+1 Gold] per [2] [Luxury] owned [in this city]"],
+		"uniques": ["[+1 Gold] from every [Luxury] [in this city]"],
 		"hurryCostModifier": 30,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
