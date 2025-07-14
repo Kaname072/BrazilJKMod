@@ -37,6 +37,40 @@
 			"Sorocaba","Brasília"]
 	},
 	{
+		"name": "Confederação do Equador",
+		"leaderName": "Manuel de Carvalho",
+		"adjective": ["pernambucanos"],
+		"startBias": ["Avoid [Tundra]","Avoid [Snow]"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Nos separamos do Brasil, não queremos pagar taxas abusivas!",
+		"startIntroPart2": "Levaremos a Confederação do Equador para ao triunfo!!",
+		
+		"declaringWar": "Não vai ser hoje que vamos serr derrotados!",
+		"attacked": "Terá volta!!",
+		"defeated": "Não era para ter este fim...",
+		"introduction": "Saudações! Somos da Confederação do Equador, viemos em busca da Liberdade",
+		
+		"neutralHello": "Olá",
+		"neutralLetsHearIt": ["Diga","Ande","O que foi?"],
+		"neutralNo": ["Não senhor","Não, perdoe-me","Não companheiro"],
+		"neutralYes": ["Sim","Claro!","Ótimo"],
+
+		"hateHello": "Ah, é tu",
+		"hateLetsHearIt": ["Oque quer?","OQUE É?","Ande homem..."],
+		"hateNo": ["NÃO","Nunca","Sai fora, rapá"],
+		"hateYes": ["Claro...","Legal","Tudo bem"],
+		
+		"afterPeace": "Que Deus te abençoe",
+		"tradeRequest": "É uma boa oferta!",
+		"outerColor": [48,144,0],
+		"innerColor": [255,255,255],
+                "favoredReligion": "Christianity",
+		"uniqueName": "Liberdade Pernambucana",
+		"uniques": ["[+1 Happiness] from [Hill] tiles [in this city]","[-15]% Unhappiness from [Population] [in all cities]","Cannot build [Warrior] units"],
+		"cities": ["Recife","Igarassu","Olinda","Tamandaré","Caruaru","Ipojuca","Petrolina","Goiana"]
+	},
+	{
 		"name": "República Juliana",
 		"leaderName": "David Canabarro",
 		"adjective": ["julianos"],
