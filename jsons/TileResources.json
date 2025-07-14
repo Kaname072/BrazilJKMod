@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Erva Mate", 
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": 2,
+		"gold": 1,
+    "happiness": 1,
+		"improvement": "Plantation",
+		"improvementStats": {"food": 1,"gold": 1}
+  }
+]
