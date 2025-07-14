@@ -1,5 +1,5 @@
 
-game3.png
+game2.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -130,3 +130,18 @@ TileSets/FantasyHex/Tiles/Casa Alemã
   orig: 32, 35
   offset: 0, 0
   index: -1
+NationIcons/Confederação do Equador
+  rotate: false
+  xy: 500, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sertanejo
+  rotate: false
+  xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
