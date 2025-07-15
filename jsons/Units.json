@@ -77,5 +77,35 @@
 		"uniques": ["May upgrade to [Archer] through ruins-like effects","[+50]% Strength <in [Desert] tiles>","[+10] HP when healing <in [Desert] tiles>","Double movement in [Desert]","Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Guerreiro Tamoio"
+		"replaces": "Archer",
+		"uniqueTo": "França Antártica",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 6,
+		"rangedStrength": 7,
+		"cost": 40,
+		"uniques": ["[+30]% Strength <when defending>"],
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Navio Francês",
+		"replaces": "Caravel",
+		"uniqueTo": "França Antártica",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 24,
+		"cost": 110,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
 	}
 ]
