@@ -6,14 +6,14 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Primeira Missa
   rotate: false
-  xy: 400, 4
+  xy: 400, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bandeirante
   rotate: false
-  xy: 100, 4
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -27,21 +27,21 @@ NationIcons/Brasil
   index: -1
 UnitIcons/Pracinha 
   rotate: false
-  xy: 200, 4
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Cangaceiro
 rotate: false
-  xy: 300, 4
+  xy: 300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Palácio do Planalto
   rotate: false
-  xy: 500, 4
+  xy: 500, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -118,7 +118,7 @@ ImprovementIcons/Casa Alemã
   index: -1
 TileSets/FantasyHex/Tiles/Casa Alemã
   rotate: false
-  xy: 432, 237
+  xy: 432, 239
   size: 35, 35
   orig: 100, 100
   offset: 0, 0
@@ -161,6 +161,20 @@ NationIcons/Nova Holanda
 TileSets/FantasyHex/Tiles/Canudos
   rotate: false
   xy: 532, 332
+  size: 35, 35
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/França Antártica
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Erva Mate
+  rotate: false
+  xy: 402, 239
   size: 35, 35
   orig: 100, 100
   offset: 0, 0
