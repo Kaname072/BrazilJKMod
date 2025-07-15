@@ -136,6 +136,6 @@
                 "favoredReligion": "Christianity",
 		"uniqueName": "Companhia das Índias",
 		"uniques": ["[+2 Gold] from [Sugar] tiles [in this city]","[+20]% [Gold] [in capital]","Double quantity of [Sugar] produced","Cannot build [Settler] units"],
-		"cities": ["São Luís","Imperatriz,São José de Ribamar,Balsas,Açailândia,Caxias,Timon,Codó,Pinheiro"]
+		"cities": ["Mauritsstad","Frederikstad","Nieuw Amsterdam","Imperatriz","Balsas","Caxias","Timon,Codó","Pinheiro"]
 	}
 ]
