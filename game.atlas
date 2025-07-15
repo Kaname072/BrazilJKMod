@@ -1,5 +1,5 @@
 
-game1.png
+game.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -118,7 +118,7 @@ ImprovementIcons/Casa Alemã
   index: -1
 TileSets/FantasyHex/Tiles/Casa Alemã
   rotate: false
-  xy: 432, 239
+  xy: 432, 233
   size: 35, 35
   orig: 100, 100
   offset: 0, 0
@@ -160,7 +160,7 @@ NationIcons/Nova Holanda
   index: -1
 TileSets/FantasyHex/Tiles/Canudos
   rotate: false
-  xy: 532, 332
+  xy: 529, 329
   size: 35, 35
   orig: 100, 100
   offset: 0, 0
@@ -174,8 +174,36 @@ NationIcons/França Antártica
   index: -1
 TileSets/FantasyHex/Tiles/Erva Mate
   rotate: false
-  xy: 402, 239
+  xy: 398, 239
   size: 35, 35
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Abrigo Tamoio
+  rotate: false
+  xy: 462, 233
+  size: 35, 35
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guerreiro Tamoio
+  rotate: false
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Navio Francês
+  rotate: false
+  xy: 100, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Abrigo Tamoio
+  rotate: false
+  xy: 200, 400
+  size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
