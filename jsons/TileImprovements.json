@@ -21,6 +21,6 @@
 		"turnsToBuild": 5,
 		"techRequired": "Archery",
 		"uniques": ["[+2 Culture] <after discovering [Education]>","[+1 Production] <after discovering [The Wheel]>",
-			"[+2 Food] <after discovering [Fertilizer]>","gain [1] free [Guerreiro Tamoio] unit <before discovering [Construction]>","Pillaging this improvement yields approximately [+20 Gold]"]
+			"[+2 Food] <after discovering [Fertilizer]>","[1] free [Guerreiro Tamoio] units appear <before discovering [Construction]>","Pillaging this improvement yields approximately [+20 Gold]"]
 	}
 ]
