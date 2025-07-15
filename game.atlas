@@ -160,7 +160,7 @@ NationIcons/Nova Holanda
   index: -1
 TileSets/FantasyHex/Tiles/Canudos
   rotate: false
-  xy: 529, 329
+  xy: 537, 337
   size: 35, 35
   orig: 100, 100
   offset: 0, 0
@@ -174,14 +174,14 @@ NationIcons/França Antártica
   index: -1
 TileSets/FantasyHex/Tiles/Erva Mate
   rotate: false
-  xy: 398, 239
+  xy: 402, 239
   size: 35, 35
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Abrigo Tamoio
   rotate: false
-  xy: 462, 233
+  xy: 472, 233
   size: 35, 35
   orig: 100, 100
   offset: 0, 0
