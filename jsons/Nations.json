@@ -67,7 +67,7 @@
 		"innerColor": [88,150,238],
                 "favoredReligion": "Christianity",
 		"uniqueName": "União, Liberdade, Religião e Independência",
-		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","[+33]% [Production] [in all cities]","Double quantity of [Iron] produced","Cannot build [Warrior] units"],
+		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","[+10]% [Production] [in all cities]","Double quantity of [Iron] produced","When defeating a [Cangaceiro] unit, earn [10] Gold and recruit it <with [70]% chance>","Cannot build [Warrior] units"],
 		"cities": ["Recife","Igarassu","Olinda","Tamandaré","Caruaru","Ipojuca","Petrolina","Goiana"]
 	},
 	{
@@ -101,14 +101,14 @@
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Decendencia Gaúcha",
-		"uniques": ["[+1 Science] from [Wheat] tiles [in this city]","[-20]% Unhappiness from [Population] [in all cities]","Cannot build [Settler] units"],
+		"uniques": ["[+1 Science] from [Wheat] tiles [in this city]","[-70]% maintenance costs <for [Settler] units>","[+15]% Strength <within [2] tiles of a [Casa Alemã]>","Cannot build [Settler] units"],
 		"cities": ["Laguna","São Francisco do Sul","Lages","São José","Porto Belo","Biguaçu","Blumenau","Joinville"]
 	},
 	{
 				"name": "Nova Holanda",
 		"leaderName": "João Maurício de Nassau",
 		"adjective": ["holandeses"],
-		"startBias": ["Desert","Avoid [Tundra]","Avoid [Snow]"],
+		"startBias": ["Coast","Desert","Avoid [Tundra]","Avoid [Snow]"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Os brasileiros não deixaram a gente controlar suas riquezas!",
@@ -135,7 +135,7 @@
 		"innerColor": [176,22,36],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Companhia das Índias",
-		"uniques": ["[+2 Gold] from [Sugar] tiles [in this city]","[+20]% [Gold] [in capital]","Double quantity of [Sugar] produced","Cannot build [Settler] units"],
+		"uniques": ["[+2 Gold] from [Sugar] tiles [in this city]","[+5]% [Gold] [in capital]","Enables [All] units to enter ocean tiles <starting from the [Ancient era]>"],
 		"cities": ["Mauritsstad","Frederikstad","Nieuw Amsterdam","Imperatriz","Balsas","Caxias","Timon,Codó","Pinheiro"]
 	}
 ]
