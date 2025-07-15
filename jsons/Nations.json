@@ -9,7 +9,7 @@
 		"startIntroPart1": "Vindo de portugal, chegamos a Ilha de Vera Cruz!",
 		"startIntroPart2": "Quer dizer... Terra de Vera Cruz! Eh... BRASIL!!",
 		
-		"declaringWar": "Está cometendo um erro!",
+		"declaringWar": "Está condenado!",
 		"attacked": "Não teremos misericórdia!",
 		"defeated": "Não pode ser...",
 		"introduction": "Saudações! Somos Brasileiros, que Deus esteja com vossamercê!.",
@@ -46,7 +46,7 @@
 		"startIntroPart1": "Nos separamos do Brasil, não queremos pagar taxas abusivas!",
 		"startIntroPart2": "Levaremos a Confederação do Equador para ao triunfo!!",
 		
-		"declaringWar": "Não vai ser hoje que vamos serr derrotados!",
+		"declaringWar": "Não vai ser hoje que vamos ser derrotados!",
 		"attacked": "Terá volta!!",
 		"defeated": "Não era para ter este fim...",
 		"introduction": "Saudações! Somos da Confederação do Equador, viemos em busca da Liberdade",
@@ -80,7 +80,7 @@
 		"startIntroPart1": "Nos separamos do Brasil, não queremos servi-los mais!",
 		"startIntroPart2": "Vamos leva Juliana para ao triunfo!!",
 		
-		"declaringWar": "Não vamos cair!",
+		"declaringWar": "Precisamos de espaço! Saia do nosso caminho!!",
 		"attacked": "Você quer guerra?!",
 		"defeated": "NÃO! VAMOS VOLTAR PARA O BRASIL??",
 		"introduction": "Saudações! Somos da República Juliana, e você?",
@@ -100,8 +100,42 @@
 		"outerColor": [48,144,0],
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
-		"uniqueName": "Cultura Gaúcha",
+		"uniqueName": "Decendencia Gaúcha",
 		"uniques": ["[+1 Science] from [Wheat] tiles [in this city]","[-20]% Unhappiness from [Population] [in all cities]","Cannot build [Settler] units"],
 		"cities": ["Laguna","São Francisco do Sul","Lages","São José","Porto Belo","Biguaçu","Blumenau","Joinville"]
+	},
+	{
+				"name": "Holanda Brasil",
+		"leaderName": "João Maurício de Nassau",
+		"adjective": ["holandeses"],
+		"startBias": ["Desert","Avoid [Tundra]","Avoid [Snow]"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Os brasileiros não deixaram a gente controlar suas riquezas!",
+		"startIntroPart2": "Então pegamos um pedaço emprestado, vamos mostrar que nossa administração é superior!",
+		
+		"declaringWar": "Abra espaço!!",
+		"attacked": "Não temos medo de você!",
+		"defeated": "Oh não...",
+		"introduction": "Saudações! Nós não viemos para fazer mal algum!",
+		
+		"neutralHello": "Olá",
+		"neutralLetsHearIt": ["Diga-me","Fale","O que foi?"],
+		"neutralNo": ["Não Senhor","Não, perdoe-me","Não Colega"],
+		"neutralYes": ["Sim","Claro!","Ótimo"],
+
+		"hateHello": "Ah, é tu",
+		"hateLetsHearIt": ["Oque quer?","Você quer?","Vamos..."],
+		"hateNo": ["NÃO","Nunca","Suma"],
+		"hateYes": ["Claro","Legal","Tudo bem"],
+		
+		"afterPeace": "Boa escolha",
+		"tradeRequest": "Aceitaria está maravilhosa oferta?",
+		"outerColor": [220,220,220],
+		"innerColor": [255,255,255],
+                "favoredReligion": "Christianity",
+		"uniqueName": "Companhia das Índias",
+		"uniques": ["[+2 Gold] from [Sugar] tiles [in this city]","[+20]% [Gold] [in capital]","Double quantity of [Sugar] produced","Cannot build [Settler] units"],
+		"cities": ["São Luís","Imperatriz,São José de Ribamar,Balsas,Açailândia,Caxias,Timon,Codó,Pinheiro"]
 	}
 ]
