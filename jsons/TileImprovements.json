@@ -8,6 +8,6 @@
 		"turnsToBuild": 11,
 		"techRequired": "Construction",
 		"uniques": ["[+1 Culture] <after discovering [Education]>","[+2 Production] <after discovering [Civil Service]>",
-			"Pillaging this improvement yields approximately [+50 Gold]","[+2 Food] <after discovering [Fertility]>"]
+			"Pillaging this improvement yields approximately [+50 Gold]","[+2 Food] <after discovering [Fertilizer]>"]
 	}
 ]
