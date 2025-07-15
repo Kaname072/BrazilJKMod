@@ -20,17 +20,6 @@
 		"requiredTech": "Drama and Poetry"
 	},
 	{
-		"name": "Vila Cultural",
-		"replaces": "Water Mill",
-		"uniqueTo": "República Juliana",
-		"maintenance": 2,
-		"food": 1,
-		"production": 2,
-		"hurryCostModifier": 25,
-		"uniques": ["[+1 Culture] from [Wheat] tiles [in this city]"],
-		"requiredTech": "The Wheel"
-	},
-	{
 		"name": "São Miguel",
 		"replaces": "Grand Temple",
 		"uniqueTo": "República Juliana",
