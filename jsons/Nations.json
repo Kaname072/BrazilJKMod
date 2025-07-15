@@ -137,5 +137,39 @@
 		"uniqueName": "Companhia das Índias",
 		"uniques": ["[+2 Gold] from [Plantation] tiles [in this city]","[+1 Gold] from [Farm] tiles [in this city] <after discovering [Economics]>","[+10]% [Gold] [in capital]","Enables [All] units to enter ocean tiles <starting from the [Ancient era]>"],
 		"cities": ["Mauritsstad","Frederikstad","Nieuw Amsterdam","Imperatriz","Balsas","Caxias","Timon,Codó","Pinheiro"]
+	},
+	{
+				"name": "França Antártica",
+		"leaderName": "Nicolau Durand de Villegagnon",
+		"adjective": ["franceses"],
+		"startBias": ["Coast","Jungle"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Essa é a tentativa ds coroa francesa de fazer uma colônia aqui",
+		"startIntroPart2": "Nós unimos aos Tamoios para essa missão!Não irei decepciona-los",
+		
+		"declaringWar": "Prepare-se para ser esmagado!",
+		"attacked": "Que piada!",
+		"defeated": "Me perdoe, Coroa Francesa...",
+		"introduction": "Saudações! Somos da nova colônia da Coroa Francesa, viemos em busca do triufo",
+		
+		"neutralHello": "Bounjor!",
+		"neutralLetsHearIt": ["Diga","Fale","O que foi?"],
+		"neutralNo": ["Não Senhor","Perdoe-me","Non"],
+		"neutralYes": ["Sim","Claro!","Ótimo"],
+
+		"hateHello": "Oh, tu es",
+		"hateLetsHearIt": ["Oque quer?","OQUE É?","Ande homem..."],
+		"hateNo": ["NON","Nunca","Non..."],
+		"hateYes": ["Oui bien sûr!","Legal","Tudo bem"],
+		
+		"afterPeace": "Ne soyez pas si snob",
+		"tradeRequest": "Aceite, por favor",
+		"outerColor": [180,180,180],
+		"innerColor": [250,250,250],
+                "favoredReligion": "Christianity",
+		"uniqueName": "Votos da Coroa",
+		"uniques": ["[+1 Production] from [Coast] tiles [in this city]","Double movement in [Coast]","City-State territory always counts as friendly territory","Cannot build [Settler] units"],
+		"cities": ["Forte Coligny"]
 	}
 ]
