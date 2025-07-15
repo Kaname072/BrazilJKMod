@@ -158,3 +158,17 @@ ResourceIcons/Erva Mate
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Nova Holanda
+  rotate: false
+  xy: 400, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Canudos
+  rotate: false
+  xy: 532, 337
+  size: 35, 35
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
