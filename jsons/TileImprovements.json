@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Casa Alemã",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Snow","Tundra"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Snow","Tundra"],
 		"culture": 1,
-		"maintenance": 1,
+		"maintenance": 2,
 		"uniqueTo": "República Juliana",
-		"turnsToBuild": 12,
+		"turnsToBuild": 11,
 		"techRequired": "Construction",
 		"uniques": ["[+1 Culture] <after discovering [Education]>","[+2 Production] <after discovering [Civil Service]>",
-			"Pillaging this improvement yields approximately [+50 Gold]","[1] free [Settler] units appear"]
+			"Pillaging this improvement yields approximately [+50 Gold]","[+2 Food] <after discovering [Fertility]>"]
 	}
 ]
