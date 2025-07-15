@@ -9,5 +9,17 @@
 		"techRequired": "Construction",
 		"uniques": ["[+1 Culture] <after discovering [Education]>","[+2 Production] <after discovering [Civil Service]>",
 			"Pillaging this improvement yields approximately [+50 Gold]","[+2 Food] <after discovering [Fertilizer]>"]
+	},
+	{
+				"name": "Abrigo Tamoio",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"happiness": 2,
+		"production":1,
+		"maintenance": 1,
+		"uniqueTo": "França Antártica",
+		"turnsToBuild": 5,
+		"techRequired": "Archery",
+		"uniques": ["[+2 Culture] <after discovering [Education]>","[+1 Production] <after discovering [The Wheel]>",
+			"[1] free [Guerreiro Tamoio] appears","Pillaging this improvement yields approximately [+20 Gold]"]
 	}
 ]
