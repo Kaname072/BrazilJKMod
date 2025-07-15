@@ -1,12 +1,13 @@
 [
   {
-    "name": "Canudos",
+	  "name": "Canudos",
 		"type": "NaturalWonder",
-		"faith": 5,
+		"faith": 4,
+	  "culture": 3,
 		"occursOn": ["Grassland"],
 		"uniques": ["Must be adjacent to [1] to [6] [Plains] tiles",
 			"Must be adjacent to [0] [Grassland] tiles",
-			"Neighboring tiles will convert to [Desert]"],
+			"Neighboring tiles will convert to [Forest]"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
