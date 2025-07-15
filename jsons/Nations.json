@@ -40,7 +40,7 @@
 		"name": "Confederação do Equador",
 		"leaderName": "Manuel de Carvalho",
 		"adjective": ["pernambucanos"],
-		"startBias": ["Avoid [Tundra]","Avoid [Snow]"],
+		"startBias": ["Desert","Avoid [Tundra]","Avoid [Snow]"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Nos separamos do Brasil, não queremos pagar taxas abusivas!",
@@ -66,15 +66,15 @@
 		"outerColor": [254,229,110],
 		"innerColor": [88,150,238],
                 "favoredReligion": "Christianity",
-		"uniqueName": "Liberdade Pernambucana",
-		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","[+33]% [Food] [in all cities]","Double quantity of [Iron] produced","Cannot build [Warrior] units"],
+		"uniqueName": "União, Liberdade, Religião e Independência",
+		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","[+33]% [Production] [in all cities]","Double quantity of [Iron] produced","Cannot build [Warrior] units"],
 		"cities": ["Recife","Igarassu","Olinda","Tamandaré","Caruaru","Ipojuca","Petrolina","Goiana"]
 	},
 	{
 		"name": "República Juliana",
 		"leaderName": "David Canabarro",
 		"adjective": ["julianos"],
-		"startBias": ["Avoid [Jungle]"],
+		"startBias": ["Avoid [Desert]","Avoid [Jungle]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Nos separamos do Brasil, não queremos servi-los mais!",
@@ -101,7 +101,7 @@
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Cultura Gaúcha",
-		"uniques": ["[+2 Science] from [Wheat] tiles [in this city]","[-30]% Unhappiness from [Population] [in all cities]","Cannot build [Settler] units"],
+		"uniques": ["[+1 Science] from [Wheat] tiles [in this city]","[-20]% Unhappiness from [Population] [in all cities]","Cannot build [Settler] units"],
 		"cities": ["Laguna","São Francisco do Sul","Lages","São José","Porto Belo","Biguaçu","Blumenau","Joinville"]
 	}
 ]
