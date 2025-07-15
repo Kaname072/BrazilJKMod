@@ -145,7 +145,7 @@
 		"startBias": ["Coast","Jungle"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Essa é a tentativa ds coroa francesa de fazer uma colônia aqui",
+		"startIntroPart1": "Essa é a tentativa da coroa francesa de fazer uma colônia aqui",
 		"startIntroPart2": "Nós unimos aos Tamoios para essa missão!Não irei decepciona-los",
 		
 		"declaringWar": "Prepare-se para ser esmagado!",
@@ -169,7 +169,7 @@
 		"innerColor": [250,250,250],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Votos da Coroa",
-		"uniques": ["[+1 Production] from [Coast] tiles [in this city]","Double movement in [Coast]","City-State territory always counts as friendly territory","Cannot build [Settler] units"],
+		"uniques": ["[+2 Production] from [Coast] tiles [in this city]","City-State territory always counts as friendly territory","Cannot build [Settler] units"],
 		"cities": ["Forte Coligny"]
 	}
 ]
