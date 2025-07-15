@@ -101,7 +101,7 @@
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Decendencia Gaúcha",
-		"uniques": ["[+1 Science] from [Wheat] tiles [in this city]","[-70]% maintenance costs <for [Settler] units>","[+15]% Strength <within [2] tiles of a [Casa Alemã]>","Cannot build [Settler] units"],
+		"uniques": ["[+1 Science] from [Wheat] tiles [in this city]","[+5]% Strength <within [2] tiles of a [Casa Alemã]>",],
 		"cities": ["Laguna","São Francisco do Sul","Lages","São José","Porto Belo","Biguaçu","Blumenau","Joinville"]
 	},
 	{
