@@ -67,7 +67,7 @@
 		"innerColor": [88,150,238],
                 "favoredReligion": "Christianity",
 		"uniqueName": "União, Liberdade, Religião e Independência",
-		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","[+10]% [Production] [in all cities]","Double quantity of [Iron] produced","When defeating a [Cangaceiro] unit, earn [10] Gold and recruit it <with [55]% chance>","Cannot build [Warrior] units"],
+		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","Gain a free [Iron] produced <upon founding a city>","When defeating a [Cangaceiro] unit, earn [10] Gold and recruit it <with [40]% chance>","Cannot build [Warrior] units"],
 		"cities": ["Recife","Igarassu","Olinda","Tamandaré","Caruaru","Ipojuca","Petrolina","Goiana"]
 	},
 	{
