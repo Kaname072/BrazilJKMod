@@ -26,7 +26,7 @@
 		
 		"afterPeace": "Que bom.",
 		"tradeRequest": "Eae? topa?",
-		"outerColor": [50,225,0],
+		"outerColor": [50,151,0],
 		"innerColor": [255,255,0],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Cultura Brasileira",
@@ -135,14 +135,14 @@
 		"innerColor": [176,22,36],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Companhia das Índias",
-		"uniques": ["[+2 Gold] from [Plantation] tiles [in this city]","[+1 Gold] from [Farm] tiles [in this city] <after discovering [Economics]>","[+10]% [Gold] [in capital]","Enables [All] units to enter ocean tiles <starting from the [Ancient era]>"],
+		"uniques": ["[+2 Gold] from [Plantation] tiles [in this city]","[+1 Gold] from [Farm] tiles [in this city] <after discovering [Economics]>","[+10]% [Gold] [in capital]"],
 		"cities": ["Mauritsstad","Frederikstad","Nieuw Amsterdam","Imperatriz","Balsas","Caxias","Timon,Codó","Pinheiro"]
 	},
 	{
 				"name": "França Antártica",
 		"leaderName": "Nicolau Durand de Villegagnon",
 		"adjective": ["franceses"],
-		"startBias": ["Coast","Jungle"],
+		"startBias": ["Coast","Jungle","Avoid [Tundra]","Avoid [Snow]"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Essa é a tentativa da coroa francesa de fazer uma colônia aqui",
@@ -165,11 +165,11 @@
 		
 		"afterPeace": "Ne soyez pas si snob",
 		"tradeRequest": "Aceite, por favor",
-		"outerColor": [180,180,180],
-		"innerColor": [250,250,250],
+		"outerColor": [0,255,255],
+		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Votos da Coroa",
-		"uniques": ["[+2 Production] from [Coast] tiles [in this city]","City-State territory always counts as friendly territory","Cannot build [Settler] units"],
+		"uniques": ["[+2 Production] from [Coast] tiles [in this city]","City-State territory always counts as friendly territory","[+30] Strength for [All] units in Friendly territory <before discovering [Construction]>","Cannot build [Settler] units"],
 		"cities": ["Forte Coligny"]
 	}
 ]
