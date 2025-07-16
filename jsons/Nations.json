@@ -67,7 +67,7 @@
 		"innerColor": [88,150,238],
                 "favoredReligion": "Christianity",
 		"uniqueName": "União, Liberdade, Religião e Independência",
-		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","Gain a free [Iron] produced <upon founding a city>","When defeating a [Cangaceiro] unit, earn [10] Gold and recruit it <with [40]% chance>","Cannot build [Warrior] units"],
+		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","Gain [1] [Iron] resource [in all cities] <after discovering [Iron Working]>","When defeating a [Cangaceiro] unit, earn [10] Gold and recruit it <with [40]% chance>","Cannot build [Warrior] units"],
 		"cities": ["Recife","Igarassu","Olinda","Tamandaré","Caruaru","Ipojuca","Petrolina","Goiana"]
 	},
 	{
@@ -135,7 +135,7 @@
 		"innerColor": [176,22,36],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Companhia das Índias",
-		"uniques": ["[+2 Gold] from [Plantation] tiles [in this city]","[+1 Gold] from [Farm] tiles [in this city] <after discovering [Economics]>","[+10]% [Gold] [in capital]"],
+		"uniques": ["[+2 Gold] from [Plantation] tiles [in this city]","[+1 Gold] from [Farm] tiles [in this city] <after discovering [Economics]>","[+5]% [Gold] [in capital]"],
 		"cities": ["Mauritsstad","Frederikstad","Nieuw Amsterdam","Imperatriz","Balsas","Caxias","Timon,Codó","Pinheiro"]
 	},
 	{
@@ -165,11 +165,11 @@
 		
 		"afterPeace": "Ne soyez pas si snob",
 		"tradeRequest": "Aceite, por favor",
-		"outerColor": [70,255,255],
+		"outerColor": [70,220,220],
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Votos da Coroa",
-		"uniques": ["[+2 Production] from [River] tiles [in this city]","City-State territory always counts as friendly territory","[Great General] is earned [70]% faster","[+15] Strength for [All] units <within [3] tiles of [Coast] tiles> <before discovering [Astronomy]>","Cannot build [Settler] units"],
+		"uniques": ["[+1 Production] from [River] tiles [in this city]","City-State territory always counts as friendly territory","[Great General] is earned [40]% faster","[+10]% Strength <within [3] tiles of a [Coast]> <before discovering [Astronomy]>","Cannot build [Settler] units"],
 		"cities": ["Forte Coligny"]
 	}
 ]
