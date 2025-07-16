@@ -165,11 +165,11 @@
 		
 		"afterPeace": "Ne soyez pas si snob",
 		"tradeRequest": "Aceite, por favor",
-		"outerColor": [0,255,255],
+		"outerColor": [70,255,255],
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Votos da Coroa",
-		"uniques": ["[+2 Production] from [Coast] tiles [in this city]","City-State territory always counts as friendly territory","[+30] Strength for [All] units <within [1] tiles of [Friendly Land] tiles> <before discovering [Construction]>","Cannot build [Settler] units"],
+		"uniques": ["[+2 Production] from [River] tiles [in this city]","City-State territory always counts as friendly territory","[Great General] is earned [70]% faster","[+15] Strength for [All] units <within [3] tiles of [Coast] tiles> <before discovering [Astronomy]>","Cannot build [Settler] units"],
 		"cities": ["Forte Coligny"]
 	}
 ]
