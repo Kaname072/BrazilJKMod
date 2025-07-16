@@ -5,10 +5,10 @@
 		"uniqueTo": "Brasil",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 7,
+		"strength": 8,
 		"cost": 30,
 		"obsoleteTech": "Theology",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Can move after attacking", "Never appears as a Barbarian unit"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects","Earn [50]% of killed [Barbarians] unit's [Strength] as [Production]","Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost","Woodsman"],
 		"attackSound": "metalhit"
 	},
@@ -18,12 +18,13 @@
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 10,
-		"cost": 20,
+		"cost": 20, 
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"attackSound": "shot"
 	},
-	{       "name": "Pracinha",
+	{ 
+		"name": "Pracinha",
                 "replaces": "Great War Infantry",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -35,7 +36,8 @@
 		"attackSound": "shot"
 		"uniques": ["[+40]% Strength <when defending> <vs cities>","[+1] Sight <in [Jungle] tiles>"]
 		"promotions": ["Medic"],
-		
+	},
+	{
 		"name": "Jesuíta",
 		"replaces":"Scout",
 		"uniqueTo": "República Juliana",
@@ -44,7 +46,7 @@
 		"strength": 4,
 		"cost": 15,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects","Can move after attacking","Never appears as a Barbarian unit","When defeating a [Barbarians] unit, Gain free [1] [Missionary] unit <with [50]% chance>"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects","Can move after attacking","Earn [50]% of killed [Barbarians] unit's [Strength] as [Faith]","Never appears as a Barbarians unit"],
 		"promotions": ["Ignore terrain cost","Survivalism I","Survivalism II"],
 		"attackSound": "nonmetalhit"
 	},
@@ -60,7 +62,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+66]% Strength <vs [Mounted] units>" ],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+66]% Strength <vs [Mounted] units>","Earn [70]% of killed [Military] unit's [Strength] as [Happines]"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},
@@ -86,7 +88,7 @@
 		"strength": 6,
 		"rangedStrength": 7,
 		"cost": 40,
-		"uniques": ["[+30]% Strength <when defending> <in [Jungle] tiles>","Unbuildable"],
+		"uniques": ["[+30]% Strength <when defending> <in [Jungle] tiles>","Earn [20]% of killed [Military] unit's [Strength] as [Food]","Unbuildable"],
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
