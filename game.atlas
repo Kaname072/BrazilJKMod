@@ -153,8 +153,8 @@ ResourceIcons/Erva Mate
   index: -1
 NationIcons/Nova Holanda
   rotate: false
-  xy: 400, 300
-  size: 85, 100
+  xy: 405, 300
+  size: 90, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
