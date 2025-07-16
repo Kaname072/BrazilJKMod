@@ -26,6 +26,7 @@
 	{ 
 		"name": "Pracinha",
                 "replaces": "Great War Infantry",
+		"uniqueTo": "Brasil",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 52,
