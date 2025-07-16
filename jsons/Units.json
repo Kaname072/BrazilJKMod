@@ -24,28 +24,27 @@
 		"attackSound": "shot"
 	},
 	{       "name": "Pracinha",
-                "replaces": "Rifleman",
-		"uniqueTo": "Brasil",
+                "replaces": "Great War Infantry",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 36,
-		"cost": 225,
-		"promotions": ["Medic"],
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
+		"strength": 52,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
-	},
-	{
+		"uniques": ["[+40]% Strength <when defending> <vs cities>","[+1] Sight <in [Jungle] tiles>"]
+		"promotions": ["Medic"],
+		
 		"name": "Jesuíta",
 		"replaces":"Scout",
 		"uniqueTo": "República Juliana",
 		"unitType": "Scout",
 		"movement": 3,
 		"strength": 4,
-		"cost": 20,
+		"cost": 15,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects","Can move after attacking","Never appears as a Barbarian unit"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects","Can move after attacking","Never appears as a Barbarian unit","When defeating a [Barbarians] unit, Gain free [1] [Missionary] unit <with [50]% chance>"],
 		"promotions": ["Ignore terrain cost","Survivalism I","Survivalism II"],
 		"attackSound": "nonmetalhit"
 	},
@@ -61,7 +60,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+33]% Strength <vs [Sword] units>" ],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+66]% Strength <vs [Mounted] units>" ],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},
@@ -74,7 +73,7 @@
 		"strength": 11,
 		"cost": 40,
 		"obsoleteTech": "Theology",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects","[+50]% Strength <in [Desert] tiles>","[+10] HP when healing <in [Desert] tiles>","Double movement in [Desert]","Can move after attacking", "Never appears as a Barbarian unit"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects","[+20]% Strength <in [Desert] tiles>","[+5] HP when healing <in [Desert] tiles>","Double movement in [Desert]","Can move after attacking", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "shot"
 	},
@@ -87,7 +86,7 @@
 		"strength": 6,
 		"rangedStrength": 7,
 		"cost": 40,
-		"uniques": ["[+30]% Strength <when defending>","Unbuildable"],
+		"uniques": ["[+30]% Strength <when defending> <in [Jungle] tiles>","Unbuildable"],
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
@@ -104,7 +103,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
-		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [60]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	}
