@@ -102,7 +102,7 @@
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Decendencia Gaúcha",
-		"uniques": ["[+1 Science] from [Wheat] tiles [in this city] <before discovering [The Wheel]>","[+10]% Strength for [Land] units <within [2] tiles of a [Casa Alemã]>",],
+		"uniques": ["[+1 Science] from [Wheat] tiles [in this city] <before discovering [The Wheel]>","[+20]% Strength <when defending> <within [2] tiles of a [Casa Alemã]>",],
 		"cities": ["Laguna","São Francisco do Sul","Lages","São José","Porto Belo","Biguaçu","Blumenau","Joinville"]
 	},
 	{
