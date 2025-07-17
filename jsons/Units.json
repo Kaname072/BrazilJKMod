@@ -47,7 +47,7 @@
 		"strength": 4,
 		"cost": 15,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects","Can move after attacking","Earn [50]% of killed [Barbarians] unit's [Strength] as [Faith]","Never appears as a Barbarians unit"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects","Can move after attacking","Earn [50]% of killed [Barbarians] unit's [Strength] as [Faith]","Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost","Survivalism I","Survivalism II"],
 		"attackSound": "nonmetalhit"
 	},
@@ -63,7 +63,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+66]% Strength <vs [Mounted] units>","Earn [70]% of killed [Military] unit's [Strength] as [Happines]"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+33]% Strength <vs [Mounted] units>"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},
