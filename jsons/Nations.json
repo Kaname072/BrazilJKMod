@@ -67,7 +67,7 @@
 		"innerColor": [88,150,238],
                 "favoredReligion": "Christianity",
 		"uniqueName": "União, Liberdade, Religião e Independência",
-		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","[+1] [Iron] resource [in all cities] <after discovering [Iron Working]>","When defeating a [Cangaceiro] unit, earn [10] Gold and recruit it <with [40]% chance>","Cannot build [Warrior] units"],
+		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","gain free [+1] [Iron] resource [in all cities] <after discovering [Iron Working]>","When defeating a [Cangaceiro] unit, earn [10] Gold and recruit it <with [20]% chance>","Cannot build [Warrior] units"],
 		"cities": ["Recife","Igarassu","Olinda","Tamandaré","Caruaru","Ipojuca","Petrolina","Goiana"]
 	},
 	{
@@ -169,7 +169,7 @@
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Votos da Coroa",
-		"uniques": ["[+1 Production] from [River] tiles [in this city]","City-State territory always counts as friendly territory","[Great General] is earned [40]% faster","[+10]% Strength <within [3] tiles of a [Coast]> <before discovering [Astronomy]>","Cannot build [Settler] units"],
+		"uniques": ["[+1 Production] from [River] tiles [in this city]","City-State territory always counts as friendly territory","[Great General] is earned [30]% faster","[+10]% Strength <within [2] tiles of a [Coast]> <before discovering [Astronomy]>","Cannot build [Settler] units"],
 		"cities": ["Forte Coligny"]
 	}
 ]
