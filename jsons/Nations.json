@@ -31,7 +31,7 @@
                 "favoredReligion": "Christianity",
 		"uniqueName": "Soberania Brasileira",
 		"uniques": ["[+1 Culture] from [Jungle] tiles [in this city]","[+1 Culture] from [Forest] tiles [in this city]",
-"[+1 Production] from [Plantation] tiles [in this city]","[+1 Gold] from [Mine] tiles [in this city]"]
+"[+1 Production] from [Plantation] tiles [in this city]","[+1 Gold] from [Mine] tiles [in this city]","May buy [Atomic Bomb] units with [1] [Gold]"]
 		"cities": ["São Vicente","Salvador","São Paulo","Rio de Janeiro","Paraíba",
 			"São Cristóvão","Natal","São Luís","Belém","Teresina","Xique-Xique",
 			"Sorocaba","Brasília"]
