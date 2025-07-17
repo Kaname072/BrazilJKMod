@@ -4,7 +4,7 @@
 		"replaces": "Monument",
 		"uniqueTo": "Brasil",
 		"culture": 2,
-		"uniques": ["+1 Happiness","[1] free [Worker] units appear","Destroyed when the city is captured"]
+		"uniques": ["[+2 Faith]","[1] free [Worker] units appear <when build in capital>","Destroyed when the city is captured"]
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
@@ -14,9 +14,9 @@
 		"replaces": "National Epic",
 		"uniqueTo": "Brasil",
 		"cost": 150,
-		"culture": 2,
+		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["[+35]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
+		"uniques": ["[+50]% Great Person generation [in this city]","[+25]% [Culture] [in capital]","Cost increases by [20] per owned city"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
