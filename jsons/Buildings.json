@@ -4,7 +4,7 @@
 		"replaces": "Monument",
 		"uniqueTo": "Brasil",
 		"culture": 2,
-		"uniques": ["[+2 Faith]","[1] free [Worker] units appear <when build in capital>","Destroyed when the city is captured"]
+		"uniques": ["[+2 Faith]","[1] free [Worker] units appear <in your first [1] [cities] for free>","Destroyed when the city is captured"]
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
