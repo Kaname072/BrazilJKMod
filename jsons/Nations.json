@@ -31,7 +31,7 @@
                 "favoredReligion": "Christianity",
 		"uniqueName": "Soberania Brasileira",
 		"uniques": ["[+1 Culture] from [Jungle] tiles [in this city]","[+1 Culture] from [Forest] tiles [in this city]",
-"[+1 Production] from [Plantation] tiles [in this city]","[+1 Gold] from [Mine] tiles [in this city]","May buy [Atomic Bomb] units with [Gold]"]
+"[+1 Production] from [Plantation] tiles [in this city]","[+1 Gold] from [Mine] tiles [in this city]"]
 		"cities": ["São Vicente","Salvador","São Paulo","Rio de Janeiro","Paraíba",
 			"São Cristóvão","Natal","São Luís","Belém","Teresina","Xique-Xique",
 			"Sorocaba","Brasília"]
@@ -68,7 +68,7 @@
                 "favoredReligion": "Christianity",
 		"uniqueName": "União, Liberdade, Religião e Independência",
 		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]",
-"When defeating a [Cangaceiro] unit, earn [10] Gold and recruit it <with [25]% chance>","Cannot build [Warrior] units"],
+"When defeating a [Cangaceiro] unit, earn [1] Gold and recruit it <with [10]% chance>","Cannot build [Warrior] units"],
 		"cities": ["Recife","Igarassu","Olinda","Tamandaré","Caruaru","Ipojuca","Petrolina","Goiana"]
 	},
 	{
@@ -102,7 +102,7 @@
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Decendencia Gaúcha",
-		"uniques": ["[+1 Science] from [Wheat] tiles [in this city]","[+10]% Strength <within [2] tiles of a [Casa Alemã]>",],
+		"uniques": ["[+1 Science] from [Wheat] tiles [in this city] <before discovering [The Wheel]>","[+10]% Strength for [Land] units <within [2] tiles of a [Casa Alemã]>",],
 		"cities": ["Laguna","São Francisco do Sul","Lages","São José","Porto Belo","Biguaçu","Blumenau","Joinville"]
 	},
 	{
@@ -137,7 +137,7 @@
                 "favoredReligion": "Christianity",
 		"uniqueName": "Companhia das Índias",
 		"uniques": ["[+2 Gold] from [Plantation] tiles [in this city]",
-"[+1 Gold] from [Farm] tiles [in this city] <after discovering [Economics]>","[+5]% [Gold] [in capital]"],
+"[+1 Gold] from [Farm] tiles [in this city] <after discovering [Economics]>","[+10]% [Gold] [in all coastal cities]","Gain a free [Harbor] [in all coastal cities] <after discovering [Compass]>"],
 		"cities": ["Mauritsstad","Frederikstad","Nieuw Amsterdam","Imperatriz","Balsas","Caxias","Timon,Codó","Pinheiro"]
 	},
 	{
@@ -171,7 +171,7 @@
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Votos da Coroa",
-		"uniques": ["[+1 Production] from [River] tiles [in this city]","City-State territory always counts as friendly territory",
+		"uniques": ["[+1 Production] from [River] tiles [in this city]","City-State territory always counts as friendly territory <when at war>",
 			"[Great General] is earned [30]% faster","[+25]% Strength <when defending> <within [2] tiles of a [Fort]> <before adopting [Liberty]>","Cannot build [Settler] units"],
 		"cities": ["Forte Coligny","Guanabara"]
 	}
