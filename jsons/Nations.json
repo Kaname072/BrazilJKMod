@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Brasil",
-		"leaderName": "Dom Pedro I",
+		"leaderName": "Dom Pedro II",
 		"adjective": ["brasileiros"],
 		"startBias": ["Jungle","Avoid [Snow]","Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Vindo de portugal, chegamos a Ilha de Vera Cruz!",
-		"startIntroPart2": "Quer dizer... Terra de Vera Cruz! Eh... BRASIL!!",
+		"startIntroPart1": "Deixado aqui pelo meu pai, Eu estudei em toda minha vida para liderar esse grande Império!",
+		"startIntroPart2": "Que Deus abençoe o Brasil! iremos levar o nossa Paz e Soberania a todas as nações.",
 		
 		"declaringWar": "Está condenado!",
 		"attacked": "Não teremos misericórdia!",
@@ -25,13 +25,13 @@
 		"hateYes": ["Tá bom...","Eu curti...","Mas só hoje!"],
 		
 		"afterPeace": "Que bom.",
-		"tradeRequest": "Eae? topa?",
+		"tradeRequest": "Aceitaria tal oferta?",
 		"outerColor": [50,151,0],
 		"innerColor": [255,255,0],
                 "favoredReligion": "Christianity",
-		"uniqueName": "Cultura Brasileira",
-		"uniques": ["[+1 Culture] from [Jungle] tiles [in this city]","[+2 Production] from [Sugar] tiles [in this city]",
-			"[+2 Happiness] from [Gold Ore] tiles [in this city]"]
+		"uniqueName": "Soberania Brasileira",
+		"uniques": ["[+1 Culture] from [Jungle] tiles [in this city]","[+1 Culture] from [Forest] tiles [in this city]",
+"[+1 Production] from [Plantation] tiles [in this city]","[+1 Gold] from [Mine] tiles [in this city]"]
 		"cities": ["São Vicente","Salvador","São Paulo","Rio de Janeiro","Paraíba",
 			"São Cristóvão","Natal","São Luís","Belém","Teresina","Xique-Xique",
 			"Sorocaba","Brasília"]
@@ -67,7 +67,8 @@
 		"innerColor": [88,150,238],
                 "favoredReligion": "Christianity",
 		"uniqueName": "União, Liberdade, Religião e Independência",
-		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]","gain free [+1] [Iron] resource [in all cities] <after discovering [Iron Working]>","When defeating a [Cangaceiro] unit, earn [10] Gold and recruit it <with [20]% chance>","Cannot build [Warrior] units"],
+		"uniques": ["[+1 Culture] from [Desert] tiles [in this city]",
+"When defeating a [Cangaceiro] unit, earn [10] Gold and recruit it <with [25]% chance>","Cannot build [Warrior] units"],
 		"cities": ["Recife","Igarassu","Olinda","Tamandaré","Caruaru","Ipojuca","Petrolina","Goiana"]
 	},
 	{
@@ -135,7 +136,8 @@
 		"innerColor": [176,22,36],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Companhia das Índias",
-		"uniques": ["[+2 Gold] from [Plantation] tiles [in this city]","[+1 Gold] from [Farm] tiles [in this city] <after discovering [Economics]>","[+5]% [Gold] [in capital]"],
+		"uniques": ["[+2 Gold] from [Plantation] tiles [in this city]",
+"[+1 Gold] from [Farm] tiles [in this city] <after discovering [Economics]>","[+5]% [Gold] [in capital]"],
 		"cities": ["Mauritsstad","Frederikstad","Nieuw Amsterdam","Imperatriz","Balsas","Caxias","Timon,Codó","Pinheiro"]
 	},
 	{
@@ -169,7 +171,8 @@
 		"innerColor": [255,255,255],
                 "favoredReligion": "Christianity",
 		"uniqueName": "Votos da Coroa",
-		"uniques": ["[+1 Production] from [River] tiles [in this city]","City-State territory always counts as friendly territory","[Great General] is earned [30]% faster","[+10]% Strength <within [2] tiles of a [Coast]> <before discovering [Astronomy]>","Cannot build [Settler] units"],
-		"cities": ["Forte Coligny"]
+		"uniques": ["[+1 Production] from [River] tiles [in this city]","City-State territory always counts as friendly territory",
+			"[Great General] is earned [30]% faster","[+25]% Strength <when defending> <within [2] tiles of a [Fort]> <before adopting [Liberty]>","Cannot build [Settler] units"],
+		"cities": ["Forte Coligny","Guanabara"]
 	}
 ]
