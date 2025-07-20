@@ -210,7 +210,7 @@ ImprovementIcons/Abrigo Tamoio
 TileSets/FantasyHex/Tiles/Lençol Maranhense
   rotate: false
   xy: 435, 431
-  size: 31, 30
+  size: 31, 28
   orig: 100, 100
   offset: 0, 0
   index: -1
