@@ -1,9 +1,9 @@
 [
   {
-	  "name": "Canudos",
+	  "name": "Comunidade Canudos",
 		"type": "NaturalWonder",
-		"faith": 4,
-	  "culture": 3,
+		"faith": 6,
+	  "food": 2,
 		"occursOn": ["Grassland"],
 		"uniques": ["Must be adjacent to [1] to [6] [Plains] tiles",
 			"Must be adjacent to [0] [Grassland] tiles",
@@ -16,8 +16,8 @@
 	{
 		"name": "Lençol Maranhense",
 		"type": "NaturalWonder",
-		"happiness": 2,
-		"culture": 2,
+		"happiness": 3,
+		"culture": 3,
 		"science": 2,
 		"occursOn": ["Desert"],
 		"uniques": ["Must be adjacent to [1] to [6] [Desert] tiles",
