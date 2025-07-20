@@ -161,7 +161,7 @@ NationIcons/Nova Holanda
 TileSets/FantasyHex/Tiles/Canudos
   rotate: false
   xy: 534, 333
-  size: 31, 33
+  size: 32, 34
   orig: 100, 100
   offset: 0, 0
   index: -1
