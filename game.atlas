@@ -160,8 +160,8 @@ NationIcons/Nova Holanda
   index: -1
 TileSets/FantasyHex/Tiles/Canudos
   rotate: false
-  xy: 534, 339
-  size: 31, 27
+  xy: 534, 340
+  size: 31, 29
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -209,8 +209,8 @@ ImprovementIcons/Abrigo Tamoio
   index: -1
 TileSets/FantasyHex/Tiles/Lençol Maranhense
   rotate: false
-  xy: 434, 437
-  size: 32, 26
+  xy: 434, 440
+  size: 32, 28
   orig: 100, 100
   offset: 0, 0
   index: -1
