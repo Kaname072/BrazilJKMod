@@ -1,5 +1,5 @@
 
-game1.png
+game4.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -118,8 +118,8 @@ ImprovementIcons/Casa Alemã
   index: -1
 TileSets/FantasyHex/Tiles/Casa Alemã
   rotate: false
-  xy: 432, 233
-  size: 35, 35
+  xy: 435, 234
+  size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -204,6 +204,13 @@ ImprovementIcons/Abrigo Tamoio
   rotate: false
   xy: 200, 400
   size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lençol Maranhense
+  rotate: false
+  xy: 435, 434
+  size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
